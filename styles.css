@@ -1,0 +1,11 @@
+form,
+input {
+  display: block;
+  margin: 10px;
+}
+button {
+  cursor: pointer;
+}
+form #log {
+  cursor: pointer;
+}
